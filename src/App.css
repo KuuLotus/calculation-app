@@ -1,3 +1,10 @@
+#root {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .calculator {
   width: 300px;
   margin: 0 auto;
